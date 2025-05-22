@@ -14,7 +14,7 @@ A responsive user profile card component built with HTML, CSS, and JavaScript. T
 
 ## Live Demo
 
-View the live demo: [Profile Card Component](https://profile-card-9rblvzhte-bizonbytes-projects.vercel.app)
+View the live demo: [Profile Card Component](https://profile-card-wheat-sigma.vercel.app/)
 
 ## Setup
 
