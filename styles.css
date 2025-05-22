@@ -57,14 +57,13 @@ body {
     right: -5px;
     bottom: -5px;
     border-radius: 50%;
-    background: linear-gradient(45deg, #0095f6, #00d1ff);
     z-index: -1;
     opacity: 0;
     transition: opacity 0.3s ease;
 }
 
 .avatar:hover::after {
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .avatar img {
@@ -173,13 +172,13 @@ body {
     left: 100%;
 }
 
-.follow-btn:hover:not(:disabled) {
-    background-color: #0081d6;
-    transform: translateY(-1px);
-}
-
 .follow-btn.following {
     background-color: #e0e0e0;
+    color: #666;
+}
+
+.follow-btn.following:hover {
+    background-color: #d0d0d0;
     color: #666;
 }
 
