@@ -1,0 +1,12 @@
+{
+  "name": "profile-card",
+  "version": "1.0.0",
+  "description": "A responsive user profile card component",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
